@@ -1144,3 +1144,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.17-21.10.10:539][941]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.09.17-21.10.10:539][941]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
 [2024.09.17-21.10.45:494][242]LogDerivedDataCache: C:/Users/leafs/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.192 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1379 files in 2270 folders with total size 18 MiB.
+[2024.09.17-21.27.19:505][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.17-21.27.19:558][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
